@@ -5,7 +5,7 @@ $(document).ready(function(){
 	/* ---- Countdown timer ---- */
 
 	$('#counter').countdown({
-		timestamp : new Date(2021, 4, 10)
+		timestamp : new Date(2021, 3, 10)
 	});
 
 
